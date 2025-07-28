@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Uh6tlCYd+k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\3alaa\\OneDrive\\Desktop\\CIB BANK LAST FINAL - Advanced\\OOP Team Project 2024\\BankProject\\BankProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\3alaa\\.nuget\\packages\\winforms.datavisualization\\1.10.0\\winforms.datavisualization.1.10.0.nupkg.sha512",
+    "C:\\Users\\3alaa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.15\\microsoft.windowsdesktop.app.ref.8.0.15.nupkg.sha512",
+    "C:\\Users\\3alaa\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.15\\microsoft.netcore.app.ref.8.0.15.nupkg.sha512",
+    "C:\\Users\\3alaa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.15\\microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512",
+    "C:\\Users\\3alaa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.15\\microsoft.netcore.app.host.win-x64.8.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

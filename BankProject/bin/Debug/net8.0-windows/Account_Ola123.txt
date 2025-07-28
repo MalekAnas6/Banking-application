@@ -1,0 +1,5 @@
+Username: Ola123
+Password: Ola123
+Name: Ola M. Mazen
+Phone Number: 01044252266
+Account Type: Saving 

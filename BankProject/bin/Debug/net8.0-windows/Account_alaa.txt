@@ -1,0 +1,5 @@
+Username: alaa
+Password: alaa123
+Name: Alaa 
+Phone Number: 01069617448
+Account Type: Saving 

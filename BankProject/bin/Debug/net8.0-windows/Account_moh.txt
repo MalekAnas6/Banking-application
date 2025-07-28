@@ -1,0 +1,5 @@
+Username: moh
+Password: moh1234
+Name: Mohammed 
+Phone Number: 010678335
+Account Type: Saving 

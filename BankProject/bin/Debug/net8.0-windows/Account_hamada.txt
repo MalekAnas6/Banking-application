@@ -1,0 +1,5 @@
+Username: hamada
+Password: hamada123
+Name: Hamada
+Phone Number: 0106863352
+Account Type: Saving 

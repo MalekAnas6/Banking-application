@@ -1,0 +1,5 @@
+Username: nour
+Password: nour123
+Name: Noureddin
+Phone Number: 0103342322
+Account Type: Saving 
