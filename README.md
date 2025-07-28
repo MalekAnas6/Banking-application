@@ -11,6 +11,15 @@ The application is **not meant to represent a real-world secure or scalable bank
 - Event-driven programming using Windows Forms in C#
 - GUI design logic in a desktop application
 
+## 📦 Repository Information
+
+📌 **Important Note:**  
+This repository was created **solely for sharing and presentation purposes**.
+
+The actual development process took place in a separate private repository where all team members collaborated. However, due to **branching complications, multiple conflicting merges, and messy version history**, a clean and organized version of the project was prepared in this new repository.
+
+✅ This version is functionally the same as the original one, but has a cleaner structure and history to make it easier to view and navigate.
+
 ## 💡 Disclaimer
 
 > 🔹 Some logic and behaviors within the system **may not make sense** from a real-world perspective. This is intentional, as the goal was to **apply and demonstrate OOP concepts** rather than build a production-ready app.
