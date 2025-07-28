@@ -88,8 +88,9 @@ namespace BankProject
             DialogResult LogOut = MessageBox.Show("Are you sure you want to log out ? ", "Warning", MessageBoxButtons.YesNo, MessageBoxIcon.Exclamation);
             if (LogOut == DialogResult.Yes)
             {
+                exitConfirmed = true; 
                 Application.OpenForms[0].Show();
-                this.Close();
+                this.Close();  
             }
             else
             {
@@ -415,7 +416,20 @@ namespace BankProject
         bool exitConfirmed = false;
         private void UserForm_FormClosing(object sender, FormClosingEventArgs e)
         {
-            
+            if (!exitConfirmed)
+            {
+                DialogResult LogOut = MessageBox.Show("Are you sure you want to exit the program?","Warning",MessageBoxButtons.YesNo, MessageBoxIcon.Exclamation);
+
+                if (LogOut == DialogResult.Yes)
+                {
+                    exitConfirmed = true; 
+                    Application.Exit();   
+                }
+                else
+                {
+                    e.Cancel = true; 
+                }
+            }
 
 
 

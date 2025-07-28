@@ -197,17 +197,18 @@
             // 
             lblUsername.Font = new Font("Segoe UI Semibold", 19.8000011F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
             lblUsername.ForeColor = Color.FromArgb(50, 47, 45);
-            lblUsername.Location = new Point(378, 165);
+            lblUsername.Location = new Point(431, 178);
             lblUsername.Name = "lblUsername";
             lblUsername.Size = new Size(378, 60);
             lblUsername.TabIndex = 3;
             lblUsername.Text = "Account Name :";
+            lblUsername.Click += lblUsername_Click;
             // 
             // lblName
             // 
             lblName.Font = new Font("Segoe UI Semibold", 19.8000011F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
             lblName.ForeColor = Color.FromArgb(50, 47, 45);
-            lblName.Location = new Point(378, 320);
+            lblName.Location = new Point(428, 287);
             lblName.Name = "lblName";
             lblName.Size = new Size(378, 60);
             lblName.TabIndex = 4;
@@ -217,7 +218,7 @@
             // 
             lblAccountType.Font = new Font("Segoe UI Semibold", 19.8000011F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
             lblAccountType.ForeColor = Color.FromArgb(50, 47, 45);
-            lblAccountType.Location = new Point(378, 402);
+            lblAccountType.Location = new Point(431, 350);
             lblAccountType.Name = "lblAccountType";
             lblAccountType.Size = new Size(378, 60);
             lblAccountType.TabIndex = 5;
@@ -227,7 +228,7 @@
             // 
             label6.Font = new Font("Segoe UI Semibold", 19.8000011F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
             label6.ForeColor = Color.FromArgb(50, 47, 45);
-            label6.Location = new Point(378, 487);
+            label6.Location = new Point(395, 411);
             label6.Name = "label6";
             label6.Size = new Size(378, 60);
             label6.TabIndex = 6;
@@ -237,7 +238,7 @@
             // 
             label2.Font = new Font("Segoe UI Semibold", 19.8000011F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
             label2.ForeColor = Color.FromArgb(50, 47, 45);
-            label2.Location = new Point(378, 594);
+            label2.Location = new Point(374, 569);
             label2.Name = "label2";
             label2.Size = new Size(378, 60);
             label2.TabIndex = 12;
@@ -247,7 +248,7 @@
             // 
             label3.Font = new Font("Segoe UI Semibold", 19.8000011F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
             label3.ForeColor = Color.FromArgb(50, 47, 45);
-            label3.Location = new Point(378, 241);
+            label3.Location = new Point(374, 232);
             label3.Name = "label3";
             label3.Size = new Size(378, 60);
             label3.TabIndex = 13;
@@ -258,7 +259,7 @@
             lbName.BackColor = Color.FromArgb(50, 47, 45);
             lbName.Font = new Font("Lucida Sans Typewriter", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             lbName.ForeColor = Color.FromArgb(223, 211, 201);
-            lbName.Location = new Point(640, 182);
+            lbName.Location = new Point(719, 185);
             lbName.Name = "lbName";
             lbName.Size = new Size(374, 28);
             lbName.TabIndex = 17;
@@ -269,7 +270,7 @@
             lbluserNme.BackColor = Color.FromArgb(50, 47, 45);
             lbluserNme.Font = new Font("Lucida Sans Typewriter", 12F, FontStyle.Bold);
             lbluserNme.ForeColor = Color.FromArgb(223, 211, 201);
-            lbluserNme.Location = new Point(718, 257);
+            lbluserNme.Location = new Point(719, 244);
             lbluserNme.Name = "lbluserNme";
             lbluserNme.Size = new Size(348, 29);
             lbluserNme.TabIndex = 18;
@@ -280,7 +281,7 @@
             lblPhone.BackColor = Color.FromArgb(50, 47, 45);
             lblPhone.Font = new Font("Lucida Sans Typewriter", 12F, FontStyle.Bold);
             lblPhone.ForeColor = Color.FromArgb(223, 211, 201);
-            lblPhone.Location = new Point(666, 337);
+            lblPhone.Location = new Point(719, 304);
             lblPhone.Name = "lblPhone";
             lblPhone.Size = new Size(348, 28);
             lblPhone.TabIndex = 19;
@@ -291,7 +292,7 @@
             lblCurrency.BackColor = Color.FromArgb(50, 47, 45);
             lblCurrency.Font = new Font("Lucida Sans Typewriter", 12F, FontStyle.Bold);
             lblCurrency.ForeColor = Color.FromArgb(223, 211, 201);
-            lblCurrency.Location = new Point(718, 507);
+            lblCurrency.Location = new Point(719, 424);
             lblCurrency.Name = "lblCurrency";
             lblCurrency.Size = new Size(389, 31);
             lblCurrency.TabIndex = 22;
@@ -302,7 +303,7 @@
             CardGroup.Controls.Add(checkBox3);
             CardGroup.Controls.Add(checkBox4);
             CardGroup.FlatStyle = FlatStyle.Flat;
-            CardGroup.Location = new Point(587, 575);
+            CardGroup.Location = new Point(583, 550);
             CardGroup.Name = "CardGroup";
             CardGroup.Size = new Size(545, 79);
             CardGroup.TabIndex = 23;
@@ -339,7 +340,7 @@
             label5.BackColor = Color.FromArgb(50, 47, 45);
             label5.Font = new Font("Lucida Sans Typewriter", 12F, FontStyle.Bold);
             label5.ForeColor = Color.FromArgb(223, 211, 201);
-            label5.Location = new Point(624, 416);
+            label5.Location = new Point(719, 364);
             label5.Name = "label5";
             label5.Size = new Size(390, 28);
             label5.TabIndex = 24;

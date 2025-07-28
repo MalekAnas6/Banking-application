@@ -52,10 +52,10 @@
             // ProjectName
             // 
             ProjectName.AutoSize = true;
-            ProjectName.Font = new Font("Vivaldi", 46.2F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
-            ProjectName.Location = new Point(-14, 145);
+            ProjectName.Font = new Font("Times New Roman", 36F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+            ProjectName.Location = new Point(45, 161);
             ProjectName.Name = "ProjectName";
-            ProjectName.Size = new Size(821, 92);
+            ProjectName.Size = new Size(720, 67);
             ProjectName.TabIndex = 0;
             ProjectName.Text = "Celestia International Bank";
             ProjectName.Click += ProjectName_Click;

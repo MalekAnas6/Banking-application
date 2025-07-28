@@ -50,11 +50,11 @@
             AccountTypeBox = new ComboBox();
             label10 = new Label();
             panel1 = new Panel();
+            label13 = new Label();
             label12 = new Label();
             textBox1 = new TextBox();
             label11 = new Label();
             pictureBox1 = new PictureBox();
-            label13 = new Label();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
@@ -63,7 +63,7 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 10.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label1.Location = new Point(9, 92);
+            label1.Location = new Point(22, 92);
             label1.Name = "label1";
             label1.Size = new Size(95, 25);
             label1.TabIndex = 0;
@@ -74,17 +74,18 @@
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI", 10.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label2.Location = new Point(23, 177);
+            label2.Location = new Point(35, 179);
             label2.Name = "label2";
             label2.Size = new Size(63, 25);
             label2.TabIndex = 1;
             label2.Text = "Name:";
+            label2.Click += label2_Click;
             // 
             // label3
             // 
             label3.AutoSize = true;
             label3.Font = new Font("Segoe UI", 10.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label3.Location = new Point(9, 130);
+            label3.Location = new Point(22, 133);
             label3.Name = "label3";
             label3.Size = new Size(91, 25);
             label3.TabIndex = 2;
@@ -93,10 +94,10 @@
             // label4
             // 
             label4.AutoSize = true;
-            label4.Font = new Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label4.Location = new Point(12, 228);
+            label4.Font = new Font("Segoe UI", 10.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label4.Location = new Point(5, 229);
             label4.Name = "label4";
-            label4.Size = new Size(112, 20);
+            label4.Size = new Size(133, 23);
             label4.TabIndex = 3;
             label4.Text = "Phone number: ";
             // 
@@ -253,9 +254,10 @@
             // label10
             // 
             label10.AutoSize = true;
-            label10.Location = new Point(26, 280);
+            label10.Font = new Font("Segoe UI", 10.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label10.Location = new Point(14, 278);
             label10.Name = "label10";
-            label10.Size = new Size(105, 20);
+            label10.Size = new Size(122, 23);
             label10.TabIndex = 20;
             label10.Text = "Account Type: ";
             // 
@@ -292,6 +294,15 @@
             panel1.Size = new Size(575, 681);
             panel1.TabIndex = 21;
             panel1.Paint += panel1_Paint;
+            // 
+            // label13
+            // 
+            label13.AutoSize = true;
+            label13.Location = new Point(239, 479);
+            label13.Name = "label13";
+            label13.Size = new Size(109, 20);
+            label13.TabIndex = 24;
+            label13.Text = "MM       /      YY";
             // 
             // label12
             // 
@@ -333,15 +344,6 @@
             pictureBox1.TabIndex = 22;
             pictureBox1.TabStop = false;
             pictureBox1.Click += pictureBox1_Click;
-            // 
-            // label13
-            // 
-            label13.AutoSize = true;
-            label13.Location = new Point(239, 479);
-            label13.Name = "label13";
-            label13.Size = new Size(109, 20);
-            label13.TabIndex = 24;
-            label13.Text = "MM       /      YY";
             // 
             // RegisterationForm
             // 

@@ -1,0 +1,5 @@
+Username: SAY3D
+Password: 9710
+Name: AA
+Phone Number: 050
+Account Type: Saving 

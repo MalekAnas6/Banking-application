@@ -332,10 +332,10 @@
             // lblGreetings
             // 
             lblGreetings.AutoSize = true;
-            lblGreetings.Font = new Font("Vivaldi", 28.2F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            lblGreetings.Location = new Point(317, 9);
+            lblGreetings.Font = new Font("Times New Roman", 24F, FontStyle.Italic, GraphicsUnit.Point, 0);
+            lblGreetings.Location = new Point(559, 9);
             lblGreetings.Name = "lblGreetings";
-            lblGreetings.Size = new Size(261, 55);
+            lblGreetings.Size = new Size(280, 47);
             lblGreetings.TabIndex = 14;
             lblGreetings.Text = "Greetings, user!";
             // 

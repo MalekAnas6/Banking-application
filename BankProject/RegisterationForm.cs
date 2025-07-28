@@ -36,6 +36,7 @@ namespace BankProject
 
                 string Username = txtUsername.Text;
                 string Password = txtPassword.Text;
+                
                 string Name = txtName.Text;
                 string PhoneNumber = txtPhoneNum.Text;
                 string AccountType = AccountTypeBox.Text;
@@ -74,6 +75,12 @@ namespace BankProject
                 if (!IsValidCardNumber(txtCardNum.Text))
                 {
                     MessageBox.Show("Invalid card number. Please check the format.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+
+                if (Password.Length < 10 || !Password.Any(char.IsLetter) || !Password.Any(char.IsDigit))
+                {
+                    MessageBox.Show("Password must be at least 10 characters long and contain both letters and numbers.", "Invalid Password", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     return;
                 }
 
@@ -259,7 +266,12 @@ namespace BankProject
 
         private void RegisterationForm_Resize(object sender, EventArgs e)
         {
-            
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

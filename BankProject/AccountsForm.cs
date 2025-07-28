@@ -134,7 +134,6 @@ namespace BankProject
         }
 
         bool exitConfirmed = false;
-
         private void Accounts_FormClosing(object sender, FormClosingEventArgs e)
         {
             if (!exitConfirmed)
@@ -144,13 +143,18 @@ namespace BankProject
                 if (LogOut == DialogResult.Yes)
                 {
                     exitConfirmed = true;
-                    Application.Exit();
+                    Environment.Exit(0);
                 }
                 else
                 {
                     e.Cancel = true;
                 }
             }
+        }
+
+        private void lblUsername_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

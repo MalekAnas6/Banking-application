@@ -144,7 +144,7 @@ namespace BankProject
                 if (LogOut == DialogResult.Yes)
                 {
                     exitConfirmed = true;
-                    Application.Exit();
+                    Environment.Exit(0);
                 }
                 else
                 {
