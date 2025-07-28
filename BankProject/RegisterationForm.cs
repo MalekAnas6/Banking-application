@@ -83,7 +83,11 @@ namespace BankProject
                     MessageBox.Show("Password must be at least 10 characters long and contain both letters and numbers.", "Invalid Password", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     return;
                 }
-
+                if (PhoneNumber.Length < 11 )
+                {
+                    MessageBox.Show("Invalid Phone Number", "Invalid Password", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    return;
+                }
 
 
                 string data = $"Username: {Username}\n" +

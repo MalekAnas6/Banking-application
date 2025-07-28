@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\3alaa\\OneDrive\\Desktop\\CIB BANK LAST FINAL - Advanced\\OOP Team Project 2024\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F7E90848-FD3F-4CD3-84BC-C3323B3B07D7}|BankProject\\BankProject.csproj|c:\\users\\3alaa\\onedrive\\desktop\\cib bank last final - advanced\\oop team project 2024\\bankproject\\registerationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E90848-FD3F-4CD3-84BC-C3323B3B07D7}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\registerationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E90848-FD3F-4CD3-84BC-C3323B3B07D7}|BankProject\\BankProject.csproj|C:\\Users\\3alaa\\OneDrive\\Desktop\\CIB BANK LAST FINAL - Advanced\\OOP Team Project 2024\\bankproject\\registerationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7E90848-FD3F-4CD3-84BC-C3323B3B07D7}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\registerationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F7E90848-FD3F-4CD3-84BC-C3323B3B07D7}|BankProject\\BankProject.csproj|c:\\users\\3alaa\\onedrive\\desktop\\cib bank last final - advanced\\oop team project 2024\\bankproject\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F7E90848-FD3F-4CD3-84BC-C3323B3B07D7}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7E90848-FD3F-4CD3-84BC-C3323B3B07D7}|BankProject\\BankProject.csproj|c:\\users\\3alaa\\onedrive\\desktop\\cib bank last final - advanced\\oop team project 2024\\bankproject\\carddetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F7E90848-FD3F-4CD3-84BC-C3323B3B07D7}|BankProject\\BankProject.csproj|C:\\Users\\3alaa\\OneDrive\\Desktop\\CIB BANK LAST FINAL - Advanced\\OOP Team Project 2024\\bankproject\\carddetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F7E90848-FD3F-4CD3-84BC-C3323B3B07D7}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\carddetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7E90848-FD3F-4CD3-84BC-C3323B3B07D7}|BankProject\\BankProject.csproj|c:\\users\\3alaa\\onedrive\\desktop\\cib bank last final - advanced\\oop team project 2024\\bankproject\\accountsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F7E90848-FD3F-4CD3-84BC-C3323B3B07D7}|BankProject\\BankProject.csproj|C:\\Users\\3alaa\\OneDrive\\Desktop\\CIB BANK LAST FINAL - Advanced\\OOP Team Project 2024\\bankproject\\accountsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F7E90848-FD3F-4CD3-84BC-C3323B3B07D7}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\accountsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7E90848-FD3F-4CD3-84BC-C3323B3B07D7}|BankProject\\BankProject.csproj|c:\\users\\3alaa\\onedrive\\desktop\\cib bank last final - advanced\\oop team project 2024\\bankproject\\registerationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7E90848-FD3F-4CD3-84BC-C3323B3B07D7}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\registerationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7E90848-FD3F-4CD3-84BC-C3323B3B07D7}|BankProject\\BankProject.csproj|c:\\users\\3alaa\\onedrive\\desktop\\cib bank last final - advanced\\oop team project 2024\\bankproject\\accountsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,16 +31,12 @@
       "RelativeMoniker": "D:0:0:{F7E90848-FD3F-4CD3-84BC-C3323B3B07D7}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7E90848-FD3F-4CD3-84BC-C3323B3B07D7}|BankProject\\BankProject.csproj|c:\\users\\3alaa\\onedrive\\desktop\\cib bank last final - advanced\\oop team project 2024\\bankproject\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F7E90848-FD3F-4CD3-84BC-C3323B3B07D7}|BankProject\\BankProject.csproj|C:\\Users\\3alaa\\OneDrive\\Desktop\\CIB BANK LAST FINAL - Advanced\\OOP Team Project 2024\\bankproject\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F7E90848-FD3F-4CD3-84BC-C3323B3B07D7}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7E90848-FD3F-4CD3-84BC-C3323B3B07D7}|BankProject\\BankProject.csproj|c:\\users\\3alaa\\onedrive\\desktop\\cib bank last final - advanced\\oop team project 2024\\bankproject\\carddetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7E90848-FD3F-4CD3-84BC-C3323B3B07D7}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\carddetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7E90848-FD3F-4CD3-84BC-C3323B3B07D7}|BankProject\\BankProject.csproj|c:\\users\\3alaa\\onedrive\\desktop\\cib bank last final - advanced\\oop team project 2024\\bankproject\\registerationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F7E90848-FD3F-4CD3-84BC-C3323B3B07D7}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\registerationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "UserForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\3alaa\\OneDrive\\Desktop\\CIB BANK LAST FINAL - Advanced\\OOP Team Project 2024\\BankProject\\UserForm.cs",
               "RelativeDocumentMoniker": "BankProject\\UserForm.cs",
@@ -58,12 +58,11 @@
               "RelativeToolTip": "BankProject\\UserForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-28T22:22:07.858Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "RegisterationForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\3alaa\\OneDrive\\Desktop\\CIB BANK LAST FINAL - Advanced\\OOP Team Project 2024\\BankProject\\RegisterationForm.cs",
               "RelativeDocumentMoniker": "BankProject\\RegisterationForm.cs",
@@ -80,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "LoginForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\3alaa\\OneDrive\\Desktop\\CIB BANK LAST FINAL - Advanced\\OOP Team Project 2024\\BankProject\\LoginForm.cs",
               "RelativeDocumentMoniker": "BankProject\\LoginForm.cs",
@@ -92,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AccountsForm.cs",
               "DocumentMoniker": "C:\\Users\\3alaa\\OneDrive\\Desktop\\CIB BANK LAST FINAL - Advanced\\OOP Team Project 2024\\BankProject\\AccountsForm.cs",
               "RelativeDocumentMoniker": "BankProject\\AccountsForm.cs",
@@ -105,19 +104,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AccountsForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\3alaa\\OneDrive\\Desktop\\CIB BANK LAST FINAL - Advanced\\OOP Team Project 2024\\BankProject\\AccountsForm.cs",
               "RelativeDocumentMoniker": "BankProject\\AccountsForm.cs",
               "ToolTip": "C:\\Users\\3alaa\\OneDrive\\Desktop\\CIB BANK LAST FINAL - Advanced\\OOP Team Project 2024\\BankProject\\AccountsForm.cs [Design]",
               "RelativeToolTip": "BankProject\\AccountsForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T22:36:28.279Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-07-28T22:36:28.279Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CardDetails.cs",
               "DocumentMoniker": "C:\\Users\\3alaa\\OneDrive\\Desktop\\CIB BANK LAST FINAL - Advanced\\OOP Team Project 2024\\BankProject\\CardDetails.cs",
               "RelativeDocumentMoniker": "BankProject\\CardDetails.cs",
@@ -130,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UserForm.cs",
               "DocumentMoniker": "C:\\Users\\3alaa\\OneDrive\\Desktop\\CIB BANK LAST FINAL - Advanced\\OOP Team Project 2024\\BankProject\\UserForm.cs",
               "RelativeDocumentMoniker": "BankProject\\UserForm.cs",
@@ -138,33 +136,31 @@
               "RelativeToolTip": "BankProject\\UserForm.cs",
               "ViewState": "AgIAAJYBAAAAAAAAAAAqwK4BAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T22:26:06.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T22:26:06.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "RegisterationForm.cs",
               "DocumentMoniker": "C:\\Users\\3alaa\\OneDrive\\Desktop\\CIB BANK LAST FINAL - Advanced\\OOP Team Project 2024\\BankProject\\RegisterationForm.cs",
               "RelativeDocumentMoniker": "BankProject\\RegisterationForm.cs",
               "ToolTip": "C:\\Users\\3alaa\\OneDrive\\Desktop\\CIB BANK LAST FINAL - Advanced\\OOP Team Project 2024\\BankProject\\RegisterationForm.cs",
               "RelativeToolTip": "BankProject\\RegisterationForm.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAkwFQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwFsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-28T22:23:54.375Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CardDetails.cs [Design]",
               "DocumentMoniker": "C:\\Users\\3alaa\\OneDrive\\Desktop\\CIB BANK LAST FINAL - Advanced\\OOP Team Project 2024\\BankProject\\CardDetails.cs",
               "RelativeDocumentMoniker": "BankProject\\CardDetails.cs",
               "ToolTip": "C:\\Users\\3alaa\\OneDrive\\Desktop\\CIB BANK LAST FINAL - Advanced\\OOP Team Project 2024\\BankProject\\CardDetails.cs [Design]",
               "RelativeToolTip": "BankProject\\CardDetails.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T00:32:54.894Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-07-28T00:32:54.894Z"
             }
           ]
         }
