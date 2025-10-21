@@ -54,10 +54,5 @@ namespace BankProject
             Balance += amount;
             history.Add($"Received: {amount} EGP from {senderUsername} on {DateTime.Now}");
         }
-        public List<string> GetHistory()
-        {
-
-            return new List<string>(history);
-        }
     }
 }
