@@ -9,7 +9,7 @@ The application is **not meant to represent a real-world secure or scalable bank
 - Object-Oriented Programming principles (encapsulation, inheritance, polymorphism, abstraction)
 - Basic data handling
 - Event-driven programming using Windows Forms in C#
-- GUI design logic in a desktop application
+- UI design logic in a desktop application
 
 ## 📦 Repository Information
 
